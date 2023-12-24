@@ -785,7 +785,8 @@ body {
 .intro--banner img {
 	position: absolute;
 	bottom: 21px;
-	right: -12px
+	right: -12px;
+	top: 56px
 }
 
 .intro--options {
